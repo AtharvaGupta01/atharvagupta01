@@ -123,7 +123,7 @@ function About() {
             <ul className=" leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
                 <li className=" list-pc">I'm a 2<sup>nd</sup> year <span className=" font-medium">computer Science student</span> pursuing my B.tech degree from <a href="https://pes.edu/" rel="noreferrer" target="_blank">PES University, Bengaluru</a>.</li>
                 <li className=" mt-3 list-building"> I enjoy finding and solving practical problems.</li>
-                <li className=" mt-3 list-time"> When I am not finding solutions to problems, I like to spend my time exchanging ideas with others, playing minecraft or watching <a href="https://www.youtube.com/c/LinusTechTips/channels" target="_blank" rel="noreferrer"> LinusMediaGroup's or <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"></a> Tom Scott's videos.</a></li>
+                <li className=" mt-3 list-time"> When I am not finding solutions to problems, I like to spend my time exchanging ideas with others, playing minecraft or watching <a href="https://www.youtube.com/c/LinusTechTips/channels" target="_blank" rel="noreferrer">LinusMediaGroup's </a>or <a href="https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A" target="_blank" rel="noreferrer"> Tom Scott's</a> Videos.</li>
                 <li className=" mt-3 list-star"> I also have interest in Finance, Entrepreneurship & Cloud based technologies!</li>
             </ul>
         </>
@@ -146,7 +146,7 @@ function Education() {
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2019 - 2023</div>
                     <div className=" text-sm md:text-base">Computer Science & Engineering</div>
-                    <div className="text-sm text-gray-300 font-bold mt-1"> &nbsp;CGPA: 7.6/10 </div>
+                    <div className="text-sm text-gray-300 font-bold mt-1"> &nbsp;CGPA: 8.1/10 </div>
                 </li>
             </ul>
         </>

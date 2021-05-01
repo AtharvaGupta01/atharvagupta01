@@ -12,8 +12,8 @@ export class Terminal extends Component {
         this.prev_commands = [];
         this.commands_index = -1;
         this.child_directories = {
-            root: ["books", "projects", "personal-documents", "skills", "languages", "PDPU", "interests"],
-            PDPU: ["Sem-4"],
+            root: ["books", "projects", "personal-documents", "skills", "languages", "PESUniversity", "interests"],
+            PESUniversity: ["Sem-4"],
             books: ["Rich-Dad-Poor-Dad.pdf", "Elon Musk: How the Billionaire CEO of SpaceX.pdf", "The $100 Startup_CHRIS_GUILLEBEAU.pdf", "The-richest-man-in-babylon.pdf"],
             skills: ["Front-end development", "React.js", "jQuery", "Flutter", "Express.js", "SQL", "Firebase"],
             projects: ["AtharvaGupta01-personal-portfolio", "PocDoc-medics at home", "Expense Tracker"],
